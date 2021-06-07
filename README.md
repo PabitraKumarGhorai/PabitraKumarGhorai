@@ -3,15 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabitrakumarghorai&label=Profile%20views&color=0e75b6&style=flat" alt="pabitrakumarghorai" /> </p>
 
+- 👨‍💻 All of my projects are available at [https://github.com/PabitraKumarGhorai?tab=repositories](https://github.com/PabitraKumarGhorai?tab=repositories)
+
 - 💬 Ask me about **Arduino, Python & Database**
 
 - 📫 How to reach me **ghoraipabitrakumar@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pabitra-kumar-ghorai-980935183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pabitra-kumar-ghorai-980935183" height="30" width="40" /></a>
 <a href="https://fb.com/pabitra.ghorai.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pabitra.ghorai.52" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucrtivoexi27xfyjwjvux-3w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="q49M-330YnIivV7dYMXI-A" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucrtivoexi27xfyjwjvux-3w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucrtivoexi27xfyjwjvux-3w" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ghoraipabitraku1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ghoraipabitraku1" height="30" width="40" /></a>
 </p>
 
@@ -26,4 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pabitrakumarghorai&show_icons=true&locale=en" alt="pabitrakumarghorai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pabitrakumarghorai&" alt="pabitrakumarghorai" /></p>
+
 
