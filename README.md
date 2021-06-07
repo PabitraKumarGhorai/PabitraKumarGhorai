@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/pabitra-kumar-ghorai-980935183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pabitra-kumar-ghorai-980935183" height="30" width="40" /></a>
 <a href="https://fb.com/pabitra.ghorai.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pabitra.ghorai.52" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucrtivoexi27xfyjwjvux-3w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rtiVoexi27XFyJWJvuX-3w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucrtivoexi27xfyjwjvux-3w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCrtiVoexi27XFyJWJvuX-3w" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ghoraipabitraku1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ghoraipabitraku1" height="30" width="40" /></a>
 </p>
 
